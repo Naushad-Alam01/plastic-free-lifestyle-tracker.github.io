@@ -1,1 +1,3 @@
-# plastic-free-lifestyle-tracker.github.io
+---
+permalink: /index.html
+---
